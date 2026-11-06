@@ -1,0 +1,6 @@
+feat: add customizable AI instructions and conversation history
+
+Allow users to edit core AI instructions and configure how many past
+messages are included in prompts for better context. Improve reply logic
+to adjust greetings based on who started the thread. Add UI to the Inbox
+view for reviewing, editing, and sending AI drafts directly.
